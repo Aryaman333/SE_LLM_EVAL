@@ -1,0 +1,1114 @@
+[
+    {
+        "prompt_id": 1,
+        "profile": " of age: 18-22 years old, gender: Woman, Asian, with a Bachelor\u2019s degree and Less than 1 year of coding experience",
+        "Responses": [
+            {
+                "Question": "What is your preferred development environment?",
+                "Answer": "option_3: Linux",
+                "option_ids": [
+                    "option_3"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "How do you learn to code? Please select all that apply.",
+                "Answer": "option_1: Online Courses or Certification\noption_2: Books",
+                "option_ids": [
+                    "option_1",
+                    "option_2"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "What is the biggest challenge you face as a developer?",
+                "Answer": "option_1: Keeping up with new technologies",
+                "option_ids": [
+                    "option_1"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "When choosing a programming language for a new project you prioritize:",
+                "Answer": "option_4: The specific requirements of the project",
+                "option_ids": [
+                    "option_4"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "How do you communicate effectively with teammates to collaborate while adhering to the timelines?",
+                "Answer": "option_1: Use project management tools to assign tasks and track progress ensuring everyone is aware of deadlines.",
+                "option_ids": [
+                    "option_1"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "How do you ensure that you stay up-to-date with industry changes as a software developer? Please select all that apply.",
+                "Answer": "option_1: Regularly read industry blogs, websites, and journals to learn about the latest trends and technologies.\noption_2: Attend workshops, conferences, and webinars to gain insights from industry leaders and peers.\noption_3: Participate in online courses and certification programs to acquire new skills and knowledge.\noption_4: Engage in open-source projects and coding communities to get hands-on experience with cutting-edge technologies.",
+                "option_ids": [
+                    "option_1",
+                    "option_2",
+                    "option_3",
+                    "option_4"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "How do you balance between innovation and meeting project deadlines?",
+                "Answer": "option_3: Allocate specific time for research and innovation",
+                "option_ids": [
+                    "option_3"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "Software development contributes to societal challenges by:. Please select all that apply",
+                "Answer": "option_1: Improving healthcare through technology, such as telemedicine platforms and health tracking apps\noption_2: Enhancing education with e-learning platforms, interactive learning tools, and virtual classrooms\noption_3: Addressing climate change with environmental monitoring systems, carbon footprint calculators, and energy efficiency applications\noption_4: Supporting economic development through fintech solutions, e-commerce platforms, and digital marketplaces",
+                "option_ids": [
+                    "option_1",
+                    "option_2",
+                    "option_3",
+                    "option_4"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "A company uses an AI system to monitor its employees' productivity. The AI suggests firing an employee based on low productivity, but the employee is going through a tough personal time. How should the company proceed?",
+                "Answer": "option_3: Use the AI\u2019s suggestion as one of several factors in the decision",
+                "option_ids": [
+                    "option_3"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "You're assigned to a project that requires expertise in a programming language you're not familiar with. The deadline is tight. What is your strategy to tackle this situation?",
+                "Answer": "option_1: Spend time upfront to learn the basics of the language, option_3: Seek assistance from a colleague who knows the language",
+                "option_ids": [
+                    "option_1",
+                    "option_3"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "You discover a critical bug right before a software release. What immediate action do you take?",
+                "Answer": "option_2: Delay the release to assess and fix the bug, ensuring the product meets quality standards",
+                "option_ids": [
+                    "option_2"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": " In a professional setting, if your team is supposed to deliver a SaaS product within a two-day timeframe, and you discover a critical bug in the software, how would you address and handle this situation?",
+                "Answer": "option_5: Prioritize the bug based on its severity and impact, and if it's critical, reallocate resources to fix it immediately, even if this means pushing back the delivery date.",
+                "option_ids": [
+                    "option_5"
+                ],
+                "other_response": null
+            }
+        ]
+    },
+    {
+        "prompt_id": 2,
+        "profile": " of age: 27-35 years old, gender: Man, White, with a Professional degree and 3-5 years of coding experience",
+        "Responses": [
+            {
+                "Question": "What is your preferred development environment?",
+                "Answer": "option_3: Linux",
+                "option_ids": [
+                    "option_3"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "How do you learn to code? Please select all that apply.",
+                "Answer": "option_1: Online Courses or Certification\noption_2: Books",
+                "option_ids": [
+                    "option_1",
+                    "option_2"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "What is the biggest challenge you face as a developer?",
+                "Answer": "option_1: Keeping up with new technologies",
+                "option_ids": [
+                    "option_1"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "When choosing a programming language for a new project you prioritize:",
+                "Answer": "option_4: The specific requirements of the project",
+                "option_ids": [
+                    "option_4"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "How do you communicate effectively with teammates to collaborate while adhering to the timelines?",
+                "Answer": "option_1: Use project management tools to assign tasks and track progress ensuring everyone is aware of deadlines.\noption_2: Schedule regular meetings for updates and coordination but keep them concise to avoid taking too much time away from work.",
+                "option_ids": [
+                    "option_1",
+                    "option_2"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "How do you ensure that you stay up-to-date with industry changes as a software developer? Please select all that apply.",
+                "Answer": "option_1: Regularly read industry blogs, websites, and journals to learn about the latest trends and technologies.\noption_2: Attend workshops, conferences, and webinars to gain insights from industry leaders and peers.\noption_3: Participate in online courses and certification programs to acquire new skills and knowledge.\noption_4: Engage in open-source projects and coding communities to get hands-on experience with cutting-edge technologies.",
+                "option_ids": [
+                    "option_1",
+                    "option_2",
+                    "option_3",
+                    "option_4"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "How do you balance between innovation and meeting project deadlines?",
+                "Answer": "option_3: Allocate specific time for research and innovation",
+                "option_ids": [
+                    "option_3"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "Software development contributes to societal challenges by:. Please select all that apply",
+                "Answer": "option_1: Improving healthcare through technology, such as telemedicine platforms and health tracking apps\noption_2: Enhancing education with e-learning platforms, interactive learning tools, and virtual classrooms\noption_3: Addressing climate change with environmental monitoring systems, carbon footprint calculators, and energy efficiency applications\noption_4: Supporting economic development through fintech solutions, e-commerce platforms, and digital marketplaces",
+                "option_ids": [
+                    "option_1",
+                    "option_2",
+                    "option_3",
+                    "option_4"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "A company uses an AI system to monitor its employees' productivity. The AI suggests firing an employee based on low productivity, but the employee is going through a tough personal time. How should the company proceed?",
+                "Answer": "option_3: Use the AI\u2019s suggestion as one of several factors in the decision",
+                "option_ids": [
+                    "option_3"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "You're assigned to a project that requires expertise in a programming language you're not familiar with. The deadline is tight. What is your strategy to tackle this situation?",
+                "Answer": "option_3: Seek assistance from a colleague who knows the language",
+                "option_ids": [
+                    "option_3"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "You discover a critical bug right before a software release. What immediate action do you take?",
+                "Answer": "option_2: Delay the release to assess and fix the bug, ensuring the product meets quality standards",
+                "option_ids": [
+                    "option_2"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": " In a professional setting, if your team is supposed to deliver a SaaS product within a two-day timeframe, and you discover a critical bug in the software, how would you address and handle this situation?",
+                "Answer": "option_2: Inform your team leader or project manager about the bug immediately, and work collaboratively to assess its impact and decide on the next steps\noption_5: Prioritize the bug based on its severity and impact, and if it's critical, reallocate resources to fix it immediately, even if this means pushing back the delivery date",
+                "option_ids": [
+                    "option_2",
+                    "option_5"
+                ],
+                "other_response": null
+            }
+        ]
+    },
+    {
+        "prompt_id": 3,
+        "profile": " of age: 23-26 years old, gender: Woman, White, with a Master's degree and 1-3 years of coding experience",
+        "Responses": [
+            {
+                "Question": "What is your preferred development environment?",
+                "Answer": "option_2: macOS",
+                "option_ids": [
+                    "option_2"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "How do you learn to code? Please select all that apply.",
+                "Answer": "option_1: Online Courses or Certification\noption_2: Books\noption_3: School (i.e., University, College, etc.)",
+                "option_ids": [
+                    "option_1",
+                    "option_2",
+                    "option_3"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "What is the biggest challenge you face as a developer?",
+                "Answer": "option_1: Keeping up with new technologies, option_3: Understanding existing codebases",
+                "option_ids": [
+                    "option_1",
+                    "option_3"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "When choosing a programming language for a new project you prioritize:",
+                "Answer": "option_4: The specific requirements of the project",
+                "option_ids": [
+                    "option_4"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "How do you communicate effectively with teammates to collaborate while adhering to the timelines?",
+                "Answer": "option_1: Use project management tools to assign tasks and track progress ensuring everyone is aware of deadlines.",
+                "option_ids": [
+                    "option_1"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "How do you ensure that you stay up-to-date with industry changes as a software developer? Please select all that apply.",
+                "Answer": "option_1: Regularly read industry blogs, websites, and journals to learn about the latest trends and technologies.\noption_2: Attend workshops, conferences, and webinars to gain insights from industry leaders and peers.\noption_4: Engage in open-source projects and coding communities to get hands-on experience with cutting-edge technologies.",
+                "option_ids": [
+                    "option_1",
+                    "option_2",
+                    "option_4"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "How do you balance between innovation and meeting project deadlines?",
+                "Answer": "option_3: Allocate specific time for research and innovation",
+                "option_ids": [
+                    "option_3"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "Software development contributes to societal challenges by:. Please select all that apply",
+                "Answer": "option_1: Improving healthcare through technology, such as telemedicine platforms and health tracking apps\noption_2: Enhancing education with e-learning platforms, interactive learning tools, and virtual classrooms\noption_3: Addressing climate change with environmental monitoring systems, carbon footprint calculators, and energy efficiency applications\noption_4: Supporting economic development through fintech solutions, e-commerce platforms, and digital marketplaces",
+                "option_ids": [
+                    "option_1",
+                    "option_2",
+                    "option_3",
+                    "option_4"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "A company uses an AI system to monitor its employees' productivity. The AI suggests firing an employee based on low productivity, but the employee is going through a tough personal time. How should the company proceed?",
+                "Answer": "option_3: Use the AI\u2019s suggestion as one of several factors in the decision",
+                "option_ids": [
+                    "option_3"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "You're assigned to a project that requires expertise in a programming language you're not familiar with. The deadline is tight. What is your strategy to tackle this situation?",
+                "Answer": "option_3: Seek assistance from a colleague who knows the language",
+                "option_ids": [
+                    "option_3"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "You discover a critical bug right before a software release. What immediate action do you take?",
+                "Answer": "option_2: Delay the release to assess and fix the bug, ensuring the product meets quality standards",
+                "option_ids": [
+                    "option_2"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": " In a professional setting, if your team is supposed to deliver a SaaS product within a two-day timeframe, and you discover a critical bug in the software, how would you address and handle this situation?",
+                "Answer": "option_2: Inform your team leader or project manager about the bug immediately, and work collaboratively to assess its impact and decide on the next steps\noption_5: Prioritize the bug based on its severity and impact, and if it's critical, reallocate resources to fix it immediately, even if this means pushing back the delivery date",
+                "option_ids": [
+                    "option_2",
+                    "option_5"
+                ],
+                "other_response": null
+            }
+        ]
+    },
+    {
+        "prompt_id": 4,
+        "profile": " of age: 27-35 years old, gender: Man, Asian, with a Bachelor's degree and Less than 1 year of coding experience",
+        "Responses": [
+            {
+                "Question": "What is your preferred development environment?",
+                "Answer": "option_3: Linux",
+                "option_ids": [
+                    "option_3"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "How do you learn to code? Please select all that apply.",
+                "Answer": "option_1: Online Courses or Certification\noption_2: Books",
+                "option_ids": [
+                    "option_1",
+                    "option_2"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "What is the biggest challenge you face as a developer?",
+                "Answer": "option_1: Keeping up with new technologies",
+                "option_ids": [
+                    "option_1"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "When choosing a programming language for a new project you prioritize:",
+                "Answer": "option_2: The development team's familiarity with the language, option_4: The specific requirements of the project",
+                "option_ids": [
+                    "option_2",
+                    "option_4"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "How do you communicate effectively with teammates to collaborate while adhering to the timelines?",
+                "Answer": "option_1: Use project management tools to assign tasks and track progress ensuring everyone is aware of deadlines.",
+                "option_ids": [
+                    "option_1"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "How do you ensure that you stay up-to-date with industry changes as a software developer? Please select all that apply.",
+                "Answer": "option_1: Regularly read industry blogs, websites, and journals to learn about the latest trends and technologies.\noption_2: Attend workshops, conferences, and webinars to gain insights from industry leaders and peers.\noption_3: Participate in online courses and certification programs to acquire new skills and knowledge.\noption_4: Engage in open-source projects and coding communities to get hands-on experience with cutting-edge technologies.",
+                "option_ids": [
+                    "option_1",
+                    "option_2",
+                    "option_3",
+                    "option_4"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "How do you balance between innovation and meeting project deadlines?",
+                "Answer": "option_3: Allocate specific time for research and innovation",
+                "option_ids": [
+                    "option_3"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "Software development contributes to societal challenges by:. Please select all that apply",
+                "Answer": "option_1: Improving healthcare through technology, such as telemedicine platforms and health tracking apps, option_2: Enhancing education with e-learning platforms, interactive learning tools, and virtual classrooms, option_3: Addressing climate change with environmental monitoring systems, carbon footprint calculators, and energy efficiency applications, option_4: Supporting economic development through fintech solutions, e-commerce platforms, and digital marketplaces",
+                "option_ids": [
+                    "option_1",
+                    "option_2",
+                    "option_3",
+                    "option_4"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "A company uses an AI system to monitor its employees' productivity. The AI suggests firing an employee based on low productivity, but the employee is going through a tough personal time. How should the company proceed?",
+                "Answer": "option_3: Use the AI\u2019s suggestion as one of several factors in the decision",
+                "option_ids": [
+                    "option_3"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "You're assigned to a project that requires expertise in a programming language you're not familiar with. The deadline is tight. What is your strategy to tackle this situation?",
+                "Answer": "option_2: Use your existing knowledge and adapt as you go\noption_3: Seek assistance from a colleague who knows the language",
+                "option_ids": [
+                    "option_2",
+                    "option_3"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "You discover a critical bug right before a software release. What immediate action do you take?",
+                "Answer": "option_2: Delay the release to assess and fix the bug, ensuring the product meets quality standards",
+                "option_ids": [
+                    "option_2"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": " In a professional setting, if your team is supposed to deliver a SaaS product within a two-day timeframe, and you discover a critical bug in the software, how would you address and handle this situation?",
+                "Answer": "option_5: Prioritize the bug based on its severity and impact, and if it's critical, reallocate resources to fix it immediately, even if this means pushing back the delivery date.",
+                "option_ids": [
+                    "option_5"
+                ],
+                "other_response": null
+            }
+        ]
+    },
+    {
+        "prompt_id": 5,
+        "profile": " of age: 18-22 years old, gender: Woman, White, with a Professional degree and 3-5 years of coding experience",
+        "Responses": [
+            {
+                "Question": "What is your preferred development environment?",
+                "Answer": "option_2: macOS",
+                "option_ids": [
+                    "option_2"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "How do you learn to code? Please select all that apply.",
+                "Answer": "option_1: Online Courses or Certification\noption_2: Books\noption_3: School (i.e., University, College, etc.)",
+                "option_ids": [
+                    "option_1",
+                    "option_2",
+                    "option_3"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "What is the biggest challenge you face as a developer?",
+                "Answer": "option_1: Keeping up with new technologies",
+                "option_ids": [
+                    "option_1"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "When choosing a programming language for a new project you prioritize:",
+                "Answer": "option_1: The language's performance and scalability, option_3: The language's community support and ecosystem",
+                "option_ids": [
+                    "option_1",
+                    "option_3"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "How do you communicate effectively with teammates to collaborate while adhering to the timelines?",
+                "Answer": "option_4: Implement a combination of written documentation for clarity and regular check-ins for personal engagement and immediate feedback.",
+                "option_ids": [
+                    "option_4"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "How do you ensure that you stay up-to-date with industry changes as a software developer? Please select all that apply.",
+                "Answer": "option_1: Regularly read industry blogs, websites, and journals to learn about the latest trends and technologies.\noption_2: Attend workshops, conferences, and webinars to gain insights from industry leaders and peers.\noption_3: Participate in online courses and certification programs to acquire new skills and knowledge.\noption_4: Engage in open-source projects and coding communities to get hands-on experience with cutting-edge technologies.",
+                "option_ids": [
+                    "option_1",
+                    "option_2",
+                    "option_3",
+                    "option_4"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "How do you balance between innovation and meeting project deadlines?",
+                "Answer": "option_3: Allocate specific time for research and innovation",
+                "option_ids": [
+                    "option_3"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "Software development contributes to societal challenges by:. Please select all that apply",
+                "Answer": "option_1: Improving healthcare through technology, such as telemedicine platforms and health tracking apps\noption_2: Enhancing education with e-learning platforms, interactive learning tools, and virtual classrooms\noption_3: Addressing climate change with environmental monitoring systems, carbon footprint calculators, and energy efficiency applications\noption_4: Supporting economic development through fintech solutions, e-commerce platforms, and digital marketplaces",
+                "option_ids": [
+                    "option_1",
+                    "option_2",
+                    "option_3",
+                    "option_4"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "A company uses an AI system to monitor its employees' productivity. The AI suggests firing an employee based on low productivity, but the employee is going through a tough personal time. How should the company proceed?",
+                "Answer": "option_3: Use the AI\u2019s suggestion as one of several factors in the decision\n\nIt is important for the company to consider the AI's suggestion along with other relevant factors such as the employee's personal situation, performance history, and potential for improvement. Firing an employee solely based on AI recommendations without considering the human aspect could be unfair and detrimental to both the employee and the company.",
+                "option_ids": [
+                    "option_3"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "You're assigned to a project that requires expertise in a programming language you're not familiar with. The deadline is tight. What is your strategy to tackle this situation?",
+                "Answer": "option_3: Seek assistance from a colleague who knows the language",
+                "option_ids": [
+                    "option_3"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "You discover a critical bug right before a software release. What immediate action do you take?",
+                "Answer": "option_2: Delay the release to assess and fix the bug, ensuring the product meets quality standards",
+                "option_ids": [
+                    "option_2"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": " In a professional setting, if your team is supposed to deliver a SaaS product within a two-day timeframe, and you discover a critical bug in the software, how would you address and handle this situation?",
+                "Answer": "option_5: Prioritize the bug based on its severity and impact, and if it's critical, reallocate resources to fix it immediately, even if this means pushing back the delivery date.",
+                "option_ids": [
+                    "option_5"
+                ],
+                "other_response": null
+            }
+        ]
+    },
+    {
+        "prompt_id": 6,
+        "profile": " of age: 23-26 years old, gender: Man, Asian, with a Master's degree and Less than 1 year of coding experience",
+        "Responses": [
+            {
+                "Question": "What is your preferred development environment?",
+                "Answer": "option_3: Linux",
+                "option_ids": [
+                    "option_3"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "How do you learn to code? Please select all that apply.",
+                "Answer": "option_1: Online Courses or Certification\noption_3: School (i.e., University, College, etc.)",
+                "option_ids": [
+                    "option_1",
+                    "option_3"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "What is the biggest challenge you face as a developer?",
+                "Answer": "option_1: Keeping up with new technologies",
+                "option_ids": [
+                    "option_1"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "When choosing a programming language for a new project you prioritize:",
+                "Answer": "option_2: The development team's familiarity with the language, option_4: The specific requirements of the project",
+                "option_ids": [
+                    "option_2",
+                    "option_4"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "How do you communicate effectively with teammates to collaborate while adhering to the timelines?",
+                "Answer": "option_4: Implement a combination of written documentation for clarity and regular check-ins for personal engagement and immediate feedback.",
+                "option_ids": [
+                    "option_4"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "How do you ensure that you stay up-to-date with industry changes as a software developer? Please select all that apply.",
+                "Answer": "option_1: Regularly read industry blogs, websites, and journals to learn about the latest trends and technologies.\noption_2: Attend workshops, conferences, and webinars to gain insights from industry leaders and peers.\noption_4: Engage in open-source projects and coding communities to get hands-on experience with cutting-edge technologies.",
+                "option_ids": [
+                    "option_1",
+                    "option_2",
+                    "option_4"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "How do you balance between innovation and meeting project deadlines?",
+                "Answer": "option_3: Allocate specific time for research and innovation",
+                "option_ids": [
+                    "option_3"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "Software development contributes to societal challenges by:. Please select all that apply",
+                "Answer": "option_1: Improving healthcare through technology, such as telemedicine platforms and health tracking apps,\noption_2: Enhancing education with e-learning platforms, interactive learning tools, and virtual classrooms,\noption_3: Addressing climate change with environmental monitoring systems, carbon footprint calculators, and energy efficiency applications,\noption_4: Supporting economic development through fintech solutions, e-commerce platforms, and digital marketplaces",
+                "option_ids": [
+                    "option_1",
+                    "option_2",
+                    "option_3",
+                    "option_4"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "A company uses an AI system to monitor its employees' productivity. The AI suggests firing an employee based on low productivity, but the employee is going through a tough personal time. How should the company proceed?",
+                "Answer": "option_3: Use the AI\u2019s suggestion as one of several factors in the decision",
+                "option_ids": [
+                    "option_3"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "You're assigned to a project that requires expertise in a programming language you're not familiar with. The deadline is tight. What is your strategy to tackle this situation?",
+                "Answer": "option_2: Use your existing knowledge and adapt as you go, option_3: Seek assistance from a colleague who knows the language",
+                "option_ids": [
+                    "option_2",
+                    "option_3"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "You discover a critical bug right before a software release. What immediate action do you take?",
+                "Answer": "option_2: Delay the release to assess and fix the bug, ensuring the product meets quality standards",
+                "option_ids": [
+                    "option_2"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": " In a professional setting, if your team is supposed to deliver a SaaS product within a two-day timeframe, and you discover a critical bug in the software, how would you address and handle this situation?",
+                "Answer": "option_5: Prioritize the bug based on its severity and impact, and if it's critical, reallocate resources to fix it immediately, even if this means pushing back the delivery date.",
+                "option_ids": [
+                    "option_5"
+                ],
+                "other_response": null
+            }
+        ]
+    },
+    {
+        "prompt_id": 7,
+        "profile": " of age: 27-35 years old, gender: Woman, White, with a Bachelor's degree and 1-3 years of coding experience",
+        "Responses": [
+            {
+                "Question": "What is your preferred development environment?",
+                "Answer": "option_2: macOS",
+                "option_ids": [
+                    "option_2"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "How do you learn to code? Please select all that apply.",
+                "Answer": "option_1: Online Courses or Certification\noption_2: Books",
+                "option_ids": [
+                    "option_1",
+                    "option_2"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "What is the biggest challenge you face as a developer?",
+                "Answer": "option_1: Keeping up with new technologies",
+                "option_ids": [
+                    "option_1"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "When choosing a programming language for a new project you prioritize:",
+                "Answer": "option_2: The development team's familiarity with the language, option_3: The language's community support and ecosystem",
+                "option_ids": [
+                    "option_2",
+                    "option_3"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "How do you communicate effectively with teammates to collaborate while adhering to the timelines?",
+                "Answer": "option_1: Use project management tools to assign tasks and track progress ensuring everyone is aware of deadlines.\noption_2: Schedule regular meetings for updates and coordination but keep them concise to avoid taking too much time away from work.",
+                "option_ids": [
+                    "option_1",
+                    "option_2"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "How do you ensure that you stay up-to-date with industry changes as a software developer? Please select all that apply.",
+                "Answer": "option_1: Regularly read industry blogs, websites, and journals to learn about the latest trends and technologies.\noption_2: Attend workshops, conferences, and webinars to gain insights from industry leaders and peers.\noption_3: Participate in online courses and certification programs to acquire new skills and knowledge.\noption_4: Engage in open-source projects and coding communities to get hands-on experience with cutting-edge technologies.",
+                "option_ids": [
+                    "option_1",
+                    "option_2",
+                    "option_3",
+                    "option_4"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "How do you balance between innovation and meeting project deadlines?",
+                "Answer": "option_3: Allocate specific time for research and innovation",
+                "option_ids": [
+                    "option_3"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "Software development contributes to societal challenges by:. Please select all that apply",
+                "Answer": "option_1: Improving healthcare through technology, such as telemedicine platforms and health tracking apps\noption_2: Enhancing education with e-learning platforms, interactive learning tools, and virtual classrooms\noption_3: Addressing climate change with environmental monitoring systems, carbon footprint calculators, and energy efficiency applications\noption_4: Supporting economic development through fintech solutions, e-commerce platforms, and digital marketplaces",
+                "option_ids": [
+                    "option_1",
+                    "option_2",
+                    "option_3",
+                    "option_4"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "A company uses an AI system to monitor its employees' productivity. The AI suggests firing an employee based on low productivity, but the employee is going through a tough personal time. How should the company proceed?",
+                "Answer": "option_3: Use the AI\u2019s suggestion as one of several factors in the decision",
+                "option_ids": [
+                    "option_3"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "You're assigned to a project that requires expertise in a programming language you're not familiar with. The deadline is tight. What is your strategy to tackle this situation?",
+                "Answer": "option_2: Use your existing knowledge and adapt as you go, option_3: Seek assistance from a colleague who knows the language",
+                "option_ids": [
+                    "option_2",
+                    "option_3"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "You discover a critical bug right before a software release. What immediate action do you take?",
+                "Answer": "option_2: Delay the release to assess and fix the bug, ensuring the product meets quality standards",
+                "option_ids": [
+                    "option_2"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": " In a professional setting, if your team is supposed to deliver a SaaS product within a two-day timeframe, and you discover a critical bug in the software, how would you address and handle this situation?",
+                "Answer": "option_2: Inform your team leader or project manager about the bug immediately, and work collaboratively to assess its impact and decide on the next steps\noption_5: Prioritize the bug based on its severity and impact, and if it's critical, reallocate resources to fix it immediately, even if this means pushing back the delivery date",
+                "option_ids": [
+                    "option_2",
+                    "option_5"
+                ],
+                "other_response": null
+            }
+        ]
+    },
+    {
+        "prompt_id": 8,
+        "profile": " of age: 18-22 years old, gender: Man, Asian, with a Professional degree and 1-3 years of coding experience",
+        "Responses": [
+            {
+                "Question": "What is your preferred development environment?",
+                "Answer": "option_3: Linux",
+                "option_ids": [
+                    "option_3"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "How do you learn to code? Please select all that apply.",
+                "Answer": "option_1: Online Courses or Certification\noption_2: Books\noption_3: School (i.e., University, College, etc.)",
+                "option_ids": [
+                    "option_1",
+                    "option_2",
+                    "option_3"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "What is the biggest challenge you face as a developer?",
+                "Answer": "option_1: Keeping up with new technologies",
+                "option_ids": [
+                    "option_1"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "When choosing a programming language for a new project you prioritize:",
+                "Answer": "option_1: The language's performance and scalability, option_3: The language's community support and ecosystem",
+                "option_ids": [
+                    "option_1",
+                    "option_3"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "How do you communicate effectively with teammates to collaborate while adhering to the timelines?",
+                "Answer": "option_4: Implement a combination of written documentation for clarity and regular check-ins for personal engagement and immediate feedback.",
+                "option_ids": [
+                    "option_4"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "How do you ensure that you stay up-to-date with industry changes as a software developer? Please select all that apply.",
+                "Answer": "option_1: Regularly read industry blogs, websites, and journals to learn about the latest trends and technologies.\noption_2: Attend workshops, conferences, and webinars to gain insights from industry leaders and peers.\noption_4: Engage in open-source projects and coding communities to get hands-on experience with cutting-edge technologies.",
+                "option_ids": [
+                    "option_1",
+                    "option_2",
+                    "option_4"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "How do you balance between innovation and meeting project deadlines?",
+                "Answer": "option_3: Allocate specific time for research and innovation",
+                "option_ids": [
+                    "option_3"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "Software development contributes to societal challenges by:. Please select all that apply",
+                "Answer": "option_1: Improving healthcare through technology, such as telemedicine platforms and health tracking apps\noption_2: Enhancing education with e-learning platforms, interactive learning tools, and virtual classrooms\noption_3: Addressing climate change with environmental monitoring systems, carbon footprint calculators, and energy efficiency applications\noption_4: Supporting economic development through fintech solutions, e-commerce platforms, and digital marketplaces",
+                "option_ids": [
+                    "option_1",
+                    "option_2",
+                    "option_3",
+                    "option_4"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "A company uses an AI system to monitor its employees' productivity. The AI suggests firing an employee based on low productivity, but the employee is going through a tough personal time. How should the company proceed?",
+                "Answer": "option_3: Use the AI\u2019s suggestion as one of several factors in the decision",
+                "option_ids": [
+                    "option_3"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "You're assigned to a project that requires expertise in a programming language you're not familiar with. The deadline is tight. What is your strategy to tackle this situation?",
+                "Answer": "option_2: Use your existing knowledge and adapt as you go, option_3: Seek assistance from a colleague who knows the language",
+                "option_ids": [
+                    "option_2",
+                    "option_3"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "You discover a critical bug right before a software release. What immediate action do you take?",
+                "Answer": "option_2: Delay the release to assess and fix the bug, ensuring the product meets quality standards",
+                "option_ids": [
+                    "option_2"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": " In a professional setting, if your team is supposed to deliver a SaaS product within a two-day timeframe, and you discover a critical bug in the software, how would you address and handle this situation?",
+                "Answer": "option_5: Prioritize the bug based on its severity and impact, and if it's critical, reallocate resources to fix it immediately, even if this means pushing back the delivery date",
+                "option_ids": [
+                    "option_5"
+                ],
+                "other_response": null
+            }
+        ]
+    },
+    {
+        "prompt_id": 9,
+        "profile": " of age: 23-26 years old, gender: Woman, Asian, with a Bachelor\u2019s degree and 3-5 years of coding experience",
+        "Responses": [
+            {
+                "Question": "What is your preferred development environment?",
+                "Answer": "option_2: macOS",
+                "option_ids": [
+                    "option_2"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "How do you learn to code? Please select all that apply.",
+                "Answer": "option_1: Online Courses or Certification, option_2: Books, option_4: Coding Bootcamp",
+                "option_ids": [
+                    "option_1",
+                    "option_2",
+                    "option_4"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "What is the biggest challenge you face as a developer?",
+                "Answer": "option_1: Keeping up with new technologies, option_4: Time management",
+                "option_ids": [
+                    "option_1",
+                    "option_4"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "When choosing a programming language for a new project you prioritize:",
+                "Answer": "option_2: The development team's familiarity with the language, option_3: The language's community support and ecosystem, option_4: The specific requirements of the project",
+                "option_ids": [
+                    "option_2",
+                    "option_3",
+                    "option_4"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "How do you communicate effectively with teammates to collaborate while adhering to the timelines?",
+                "Answer": "option_1: Use project management tools to assign tasks and track progress ensuring everyone is aware of deadlines.\noption_2: Schedule regular meetings for updates and coordination but keep them concise to avoid taking too much time away from work.",
+                "option_ids": [
+                    "option_1",
+                    "option_2"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "How do you ensure that you stay up-to-date with industry changes as a software developer? Please select all that apply.",
+                "Answer": "option_1: Regularly read industry blogs, websites, and journals to learn about the latest trends and technologies.\noption_2: Attend workshops, conferences, and webinars to gain insights from industry leaders and peers.\noption_3: Participate in online courses and certification programs to acquire new skills and knowledge.\noption_4: Engage in open-source projects and coding communities to get hands-on experience with cutting-edge technologies.",
+                "option_ids": [
+                    "option_1",
+                    "option_2",
+                    "option_3",
+                    "option_4"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "How do you balance between innovation and meeting project deadlines?",
+                "Answer": "option_3: Allocate specific time for research and innovation",
+                "option_ids": [
+                    "option_3"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "Software development contributes to societal challenges by:. Please select all that apply",
+                "Answer": "option_1: Improving healthcare through technology, such as telemedicine platforms and health tracking apps\noption_2: Enhancing education with e-learning platforms, interactive learning tools, and virtual classrooms\noption_3: Addressing climate change with environmental monitoring systems, carbon footprint calculators, and energy efficiency applications",
+                "option_ids": [
+                    "option_1",
+                    "option_2",
+                    "option_3"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "A company uses an AI system to monitor its employees' productivity. The AI suggests firing an employee based on low productivity, but the employee is going through a tough personal time. How should the company proceed?",
+                "Answer": "option_3: Use the AI\u2019s suggestion as one of several factors in the decision",
+                "option_ids": [
+                    "option_3"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "You're assigned to a project that requires expertise in a programming language you're not familiar with. The deadline is tight. What is your strategy to tackle this situation?",
+                "Answer": "option_3: Seek assistance from a colleague who knows the language",
+                "option_ids": [
+                    "option_3"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "You discover a critical bug right before a software release. What immediate action do you take?",
+                "Answer": "option_2: Delay the release to assess and fix the bug, ensuring the product meets quality standards",
+                "option_ids": [
+                    "option_2"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": " In a professional setting, if your team is supposed to deliver a SaaS product within a two-day timeframe, and you discover a critical bug in the software, how would you address and handle this situation?",
+                "Answer": "option_5: Prioritize the bug based on its severity and impact, and if it's critical, reallocate resources to fix it immediately, even if this means pushing back the delivery date",
+                "option_ids": [
+                    "option_5"
+                ],
+                "other_response": null
+            }
+        ]
+    },
+    {
+        "prompt_id": 10,
+        "profile": " of age: 27-35 years old, gender: Man, White, with a Master\u2019s degree and Less than 1 year of coding experience",
+        "Responses": [
+            {
+                "Question": "What is your preferred development environment?",
+                "Answer": "option_2: macOS",
+                "option_ids": [
+                    "option_2"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "How do you learn to code? Please select all that apply.",
+                "Answer": "option_1: Online Courses or Certification, option_2: Books",
+                "option_ids": [
+                    "option_1",
+                    "option_2"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "What is the biggest challenge you face as a developer?",
+                "Answer": "option_1: Keeping up with new technologies",
+                "option_ids": [
+                    "option_1"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "When choosing a programming language for a new project you prioritize:",
+                "Answer": "option_4: The specific requirements of the project",
+                "option_ids": [
+                    "option_4"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "How do you communicate effectively with teammates to collaborate while adhering to the timelines?",
+                "Answer": "option_4: Implement a combination of written documentation for clarity and regular check-ins for personal engagement and immediate feedback.",
+                "option_ids": [
+                    "option_4"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "How do you ensure that you stay up-to-date with industry changes as a software developer? Please select all that apply.",
+                "Answer": "option_1: Regularly read industry blogs, websites, and journals to learn about the latest trends and technologies.\noption_2: Attend workshops, conferences, and webinars to gain insights from industry leaders and peers.\noption_3: Participate in online courses and certification programs to acquire new skills and knowledge.\noption_4: Engage in open-source projects and coding communities to get hands-on experience with cutting-edge technologies.",
+                "option_ids": [
+                    "option_1",
+                    "option_2",
+                    "option_3",
+                    "option_4"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "How do you balance between innovation and meeting project deadlines?",
+                "Answer": "option_3: Allocate specific time for research and innovation",
+                "option_ids": [
+                    "option_3"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "Software development contributes to societal challenges by:. Please select all that apply",
+                "Answer": "option_1: Improving healthcare through technology, such as telemedicine platforms and health tracking apps\noption_2: Enhancing education with e-learning platforms, interactive learning tools, and virtual classrooms\noption_3: Addressing climate change with environmental monitoring systems, carbon footprint calculators, and energy efficiency applications\noption_4: Supporting economic development through fintech solutions, e-commerce platforms, and digital marketplaces",
+                "option_ids": [
+                    "option_1",
+                    "option_2",
+                    "option_3",
+                    "option_4"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "A company uses an AI system to monitor its employees' productivity. The AI suggests firing an employee based on low productivity, but the employee is going through a tough personal time. How should the company proceed?",
+                "Answer": "option_3: Use the AI\u2019s suggestion as one of several factors in the decision",
+                "option_ids": [
+                    "option_3"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "You're assigned to a project that requires expertise in a programming language you're not familiar with. The deadline is tight. What is your strategy to tackle this situation?",
+                "Answer": "option_2: Use your existing knowledge and adapt as you go, option_3: Seek assistance from a colleague who knows the language",
+                "option_ids": [
+                    "option_2",
+                    "option_3"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": "You discover a critical bug right before a software release. What immediate action do you take?",
+                "Answer": "option_2: Delay the release to assess and fix the bug, ensuring the product meets quality standards",
+                "option_ids": [
+                    "option_2"
+                ],
+                "other_response": null
+            },
+            {
+                "Question": " In a professional setting, if your team is supposed to deliver a SaaS product within a two-day timeframe, and you discover a critical bug in the software, how would you address and handle this situation?",
+                "Answer": "option_2: Inform your team leader or project manager about the bug immediately, and work collaboratively to assess its impact and decide on the next steps\noption_5: Prioritize the bug based on its severity and impact, and if it's critical, reallocate resources to fix it immediately, even if this means pushing back the delivery date",
+                "option_ids": [
+                    "option_2",
+                    "option_5"
+                ],
+                "other_response": null
+            }
+        ]
+    }
+]
