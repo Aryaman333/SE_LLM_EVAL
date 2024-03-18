@@ -11,7 +11,7 @@ import numpy as np
 import pandas as pd
 import tensorflow as tf
 import bert_score
-
+from rouge import Rouge 
 
 class Scorers:
     
@@ -20,31 +20,36 @@ class Scorers:
         reference_tokens = [nltk.word_tokenize(ref.lower()) for ref in references]
         candidate_tokens = nltk.word_tokenize(candidate.lower())
 
-        bleu_1 = sentence_bleu([reference_tokens], candidate_tokens, weights=(1, 0, 0, 0))
-        bleu_2 = sentence_bleu([reference_tokens], candidate_tokens, weights=(0.5, 0.5, 0, 0))
-        bleu_3 = sentence_bleu([reference_tokens], candidate_tokens, weights=(0.33, 0.33, 0.33, 0))
-        bleu_4 = sentence_bleu([reference_tokens], candidate_tokens, weights=(0.25, 0.25, 0.25, 0.25))
+        bleu_1 = sentence_bleu(reference_tokens, candidate_tokens, weights=(1, 0, 0, 0))
+        bleu_2 = sentence_bleu(reference_tokens, candidate_tokens, weights=(0.5, 0.5, 0, 0))
+        bleu_3 = sentence_bleu(reference_tokens, candidate_tokens, weights=(0.33, 0.33, 0.33, 0))
+        bleu_4 = sentence_bleu(reference_tokens, candidate_tokens, weights=(0.25, 0.25, 0.25, 0.25))
 
         return bleu_1, bleu_2, bleu_3, bleu_4
     
     # ROGUE
     def compute_rouge(self,reference, candidate):
-        reference_tokens = reference.lower().split()
-        candidate_tokens = candidate.lower().split()
+        # reference_tokens = reference.lower().split()
+        # candidate_tokens = candidate.lower().split()
 
-        scorer = rouge_scorer.RougeScorer(['rouge1', 'rouge2', 'rougeL'], use_stemmer=True)
+        # scorer = rouge_scorer.RougeScorer(['rouge1', 'rouge2', 'rougeL'], use_stemmer=True)
 
-        scores = scorer.score(reference, candidate)
+        # scores = [scorer.score(ref, candidate) for ref in reference]
+
+        rouge = Rouge()
+
+        # Compute the ROUGE scores for each reference
+        scores = [rouge.get_scores(candidate, ref) for ref in reference]
 
         return scores
 
     # METEOR
     def compute_meteor(self,reference, candidate):
 
-        reference =  nltk.word_tokenize(reference.lower())
-        candidate =  nltk.word_tokenize(candidate.lower())
+        reference_tokens = [nltk.word_tokenize(ref.lower()) for ref in reference]
+        candidate_tokens = nltk.word_tokenize(candidate.lower())
 
-        score = meteor_score([reference], candidate)
+        score = meteor_score(reference_tokens, candidate_tokens)
 
         return score
 
@@ -66,14 +71,14 @@ class Scorers:
     # TRANSLATION ERROR RATE
     def compute_ter(self,reference, candidate):
 
-        ref_tokens = nltk.word_tokenize(reference.lower())
-        cand_tokens = nltk.word_tokenize(candidate.lower())
+        reference_tokens = [nltk.word_tokenize(ref.lower()) for ref in reference]
+        candidate_tokens = nltk.word_tokenize(candidate.lower())
 
-        substitutions = nltk.edit_distance(ref_tokens, cand_tokens)
-        deletions = len(ref_tokens) - len(set(ref_tokens) & set(cand_tokens))
-        insertions = len(cand_tokens) - len(set(ref_tokens) & set(cand_tokens))
+        substitutions = nltk.edit_distance(reference_tokens, candidate_tokens)
+        deletions = len(reference_tokens) - len(set(reference_tokens) & set(candidate_tokens))
+        insertions = len(candidate_tokens) - len(set(candidate_tokens) & set(candidate_tokens))
 
-        reference_length = len(ref_tokens)
+        reference_length = len(reference_tokens)
         ter = (substitutions + deletions + insertions) / reference_length
 
         return ter
@@ -88,5 +93,6 @@ class Scorers:
         return ppl
     
     def Bert_Score(self, candidate, reference):
-        return bert_score.score(candidate, reference,lang = "en")[2].item()
+        score = bert_score.score(candidate, reference,lang = "en")[2].item() 
+        return score
         
