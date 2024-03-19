@@ -1,5 +1,5 @@
 Following folder contains three datasets:
 
 1. Survey Responses
-2. GPT4 Generated Responses
+2. GPT-3.5 Generated Responses
 3. LLama2 Generated Responses
